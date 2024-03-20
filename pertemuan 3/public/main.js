@@ -26,10 +26,7 @@ gl.clear(gl.COLOR_BUFFER_BIT);
 // membuat data koordinat titik
 const segitiga = [
   0.5, 0.0,  // titik 1
-  0.5, 0.5,   // titik 2
-  0.0, -0.5    // titik 3
-];
-
+  0.5, 0.5,
 const kotak = [
   -0.7,
   -0.2, // titik 1
